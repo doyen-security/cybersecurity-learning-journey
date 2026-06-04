@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sholapharm | Cybersecurity Reaper
 
-<!--
-**sholapharm-wmp/sholapharm-wmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm exploring the cybersecurity world. This portfolio shows my hands-on labs with Cisco, VLANs, ACLs, and network security and more to come 
 
-Here are some ideas to get you started:
+### 🔥 Featured Projects
+- **Cisco Topology Lab**: 1 router,1 switche,1 server  4 VLANs with external PC simulating the internet
+- **Network Security & VLAN Segmentation**: Router-on-a-Stick + Extended ACLs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+Cisco Packet Tracer, VLANs, ACLs, OSPF, Network Security, Linux,ethical Hacking,cyber threat management 
+
+### 📧 Contact
+[sholapharm@gmail.cpm]
+
+View my portfolio:(https://sholapharm-wmp.github.io)
