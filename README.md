@@ -9,8 +9,7 @@
 ---
 
 ### 🚀 About Me
-Cybersecurity Analyst focused on Ethical Hacking, Cisco networking, VLAN segmentation, ACLs, and pen testing basics. 
-All labs built in Cisco Packet Tracer.
+Cybersecurity Enthusiast focussed on Linux,Networking,Ethical hacking,Governance, Risk &Compliance(GRC).Passionate about continuous learning and building practical cybersecurity skills through hands on labs and real world projects.Learning.Building.Scuring
 
 ### 🛠 Tech Stack
 `Cisco` `VLANs` `OSPF` `ACLs` `Linux` `Wireshark` `Python`
