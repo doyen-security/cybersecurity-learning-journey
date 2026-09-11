@@ -319,7 +319,9 @@ Connectivity was successfully verified with 0% packet loss, and snapshots were c
 
 The lab is now ready for further controlled cybersecurity exercises such as network enumeration, service discovery, vulnerability assessment, and exploitation within the isolated environment.
 
+## Notes
 
+- [OSI Model](notes/osi-model.md)
 
 
 
